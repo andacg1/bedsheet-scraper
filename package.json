@@ -1,0 +1,14 @@
+{
+  "name": "intelligems-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.18.1",
+    "axios": "^0.25.0"
+  }
+}
