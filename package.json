@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx playwright test --headed"
+    "test": "npx playwright test --headed",
+    "start": "node network-scrape.js",
+    "start:full": "node network-scrape.js",
+    "start:basic": "node scrape.js"
   },
   "keywords": [],
   "author": "",
